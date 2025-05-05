@@ -29,13 +29,13 @@
 
 ## 🌍 Featured Projects
 
-### [Portfolio Website](https://github.com/HeviSurafel/portfolio)
+### [Portfolio Website](https://surafel.tsedaltech.com/)
 Modern personal portfolio showcasing my skills and projects.
 
-### [Task Management App](https://github.com/HeviSurafel/task-manager)
+### [Task Management App](https://github.com/HeviSurafel/Task-Management)
 Productivity application for organizing daily tasks with user authentication.
 
-### [Worku Furniture Website](https://github.com/HeviSurafel/worku-furniture)
+### [Worku Furniture Website](https://github.com/HeviSurafel/Worku-Furniture)
 E-commerce platform for furniture products with responsive design.
 
 ## 📫 Get in Touch
