@@ -40,7 +40,7 @@ E-commerce platform for furniture products with responsive design.
 
 ## 📫 Get in Touch
 
-📧 Email: [surafel@yourdomain.com](mailto:surafel@yourdomain.com)  
+📧 Email: [surafelwondu5647@gmail.com](mailto:surafelwondu5647@gmail.com)  
 🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/surafel-wondu-829820210/)  
 
 💡 *"Always learning, always building."*
