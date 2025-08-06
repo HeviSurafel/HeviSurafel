@@ -56,7 +56,9 @@ E-commerce platform for furniture products with responsive design.
 ## 📫 Get in Touch
 
 📧 Email: [surafelwondu5647@gmail.com](mailto:surafelwondu5647@gmail.com)  
-🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/surafel-wondu-829820210/)  
-💼 Upwork: [Available for hire](https://www.upwork.com/)
+📱 Phone: [+251964945647](tel:+251964945647)  
+📨 Telegram: [@Heviye05](https://t.me/Heviye05)  
+🔗 LinkedIn: [Surafel Wondu](https://www.linkedin.com/in/surafel-wondu-829820210/)  
+💼 Upwork: [Surafel's Profile](https://www.upwork.com/freelancers/~0169ef5167e8e5571e)  
 
 💡 *"Always learning, always building."*
