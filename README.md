@@ -16,6 +16,8 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/-Django_REST-ff1709?logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
 ### Databases:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
@@ -32,15 +34,29 @@
 ### [Portfolio Website](https://surafel.tsedaltech.com/)
 Modern personal portfolio showcasing my skills and projects.
 
+### [Arba Minch Stadium Donation](https://arbaminchstadium.makadamy.com/)
+Platform for collecting donations to build Arba Minch community stadium.
+
+### [OneMai Affiliate Platform](https://affiliate.joinonemai.com/)
+Affiliate marketing system developed for Upwork client.
+
 ### [Task Management App](https://github.com/HeviSurafel/Task-Management)
 Productivity application for organizing daily tasks with user authentication.
 
 ### [Worku Furniture Website](https://github.com/HeviSurafel/Worku-Furniture)
 E-commerce platform for furniture products with responsive design.
 
+## 🐍 Python/Django Expertise
+- Django REST Framework APIs
+- Python automation scripts
+- Web scraping with BeautifulSoup/Scrapy
+- Django ORM and database optimization
+- Payment gateway integrations
+
 ## 📫 Get in Touch
 
 📧 Email: [surafelwondu5647@gmail.com](mailto:surafelwondu5647@gmail.com)  
 🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/surafel-wondu-829820210/)  
+💼 Upwork: [Available for hire](https://www.upwork.com/)
 
 💡 *"Always learning, always building."*
