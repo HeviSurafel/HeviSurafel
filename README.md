@@ -45,6 +45,8 @@ Productivity application for organizing daily tasks with user authentication.
 
 ### [Worku Furniture Website](https://github.com/HeviSurafel/Worku-Furniture)
 E-commerce platform for furniture products with responsive design.
+### [Makalla Acadamy website] (https://github.com/HeviSurafel/MAC)
+Website for Makalla Technology solution  with responsive and certeficate generation.
 
 ## 🐍 Python/Django Expertise
 - Django REST Framework APIs
