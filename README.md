@@ -31,7 +31,7 @@
 
 ## 🌍 Featured Projects
 
-### [Portfolio Website](https://surafel.tsedaltech.com/)
+### [Portfolio Website](https://surafel-portifolio-snfe.vercel.app/)
 Modern personal portfolio showcasing my skills and projects.
 
 ### [Arba Minch Stadium Donation](https://arbaminchstadium.makadamy.com/)
