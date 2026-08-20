@@ -29,80 +29,35 @@ I'm a passionate **Full-Stack Developer** with **3+ years of experience** delive
 
 ## 🛠️ Technical Expertise
 
-<details>
-<summary><b>📌 Frontend Development</b></summary>
+### 🎨 Frontend Development
+**React** · Next.js · TypeScript · JavaScript · Tailwind CSS · HTML5 · CSS3
 
-| Technology | Expertise |
-|------------|-----------|
-| **React** | Component-based architecture, Hooks, State Management (Redux, Context API) |
-| **Next.js** | App Router, Server Components, ISR, API Routes, Middleware |
-| **TypeScript** | Type-safe development, Interfaces, Generics |
-| **Tailwind CSS** | Utility-first styling, Responsive design, Dark mode |
-| **JavaScript** | ES6+, Async/Await, DOM Manipulation, Event Handling |
-| **HTML5/CSS3** | Semantic markup, Flexbox, Grid, Animations |
+*Component-based architecture, State Management (Redux, Context API), App Router, Server Components, ISR, API Routes*
 
-</details>
+### 📱 Mobile Development
+**Flutter** · React Native · Android · iOS
 
-<details>
-<summary><b>📱 Mobile Development</b></summary>
+*Cross-platform development, Widget-based UI, Native components, Material Design*
 
-| Technology | Expertise |
-|------------|-----------|
-| **Flutter** | Cross-platform development, Widget-based UI, State Management |
-| **React Native** | Native components, Navigation, Expo |
-| **Android** | Material Design, Android SDK, Play Store Deployment |
-| **iOS** | Swift basics, App Store Guidelines, iOS Design Patterns |
+### ⚙️ Backend Development
+**Node.js** · Express · Django · Django REST · Python · PHP · Laravel
 
-</details>
+*RESTful APIs, Authentication (JWT), ORM, Serializers, Middleware, MVC Architecture*
 
-<details>
-<summary><b>⚙️ Backend Development</b></summary>
+### 🗄️ Database Management
+**PostgreSQL** · MySQL · MongoDB · Firebase · SQLite
 
-| Technology | Expertise |
-|------------|-----------|
-| **Node.js/Express** | RESTful APIs, Middleware, Authentication (JWT), Error Handling |
-| **Django/Django REST** | Model-View-Template, ORM, Serializers, Permissions |
-| **Python** | Automation, Scripting, Web Scraping, Data Processing |
-| **PHP/Laravel** | MVC Architecture, Eloquent ORM, Blade Templating |
-| **API Design** | RESTful principles, GraphQL basics, API Documentation (Swagger/Postman) |
+*Prisma · Django ORM · Mongoose · Eloquent · Query optimization · Indexing*
 
-</details>
+### ☁️ Cloud & DevOps
+**AWS** · Google Cloud · Docker · Vercel · Netlify · Heroku
 
-<details>
-<summary><b>🗄️ Database Management</b></summary>
+*EC2, S3, RDS, Lambda · Cloud Run · Containerization · CI/CD*
 
-| Type | Technologies |
-|------|--------------|
-| **SQL** | PostgreSQL, MySQL, SQLite |
-| **NoSQL** | MongoDB, Firebase Firestore |
-| **ORM/ODM** | Prisma, Django ORM, Mongoose, Eloquent |
-| **Optimization** | Query tuning, Indexing, Connection Pooling |
+### 🛠️ Tools & Practices
+**Git** · GitHub · VS Code · Postman · Figma · Jira · Linux
 
-</details>
-
-<details>
-<summary><b>☁️ Cloud & DevOps</b></summary>
-
-| Service | Expertise |
-|---------|-----------|
-| **AWS** | EC2, S3, RDS, Lambda, IAM |
-| **Google Cloud** | Cloud Run, Firebase, Cloud Storage |
-| **Docker** | Containerization, Docker Compose |
-| **CI/CD** | GitHub Actions, Vercel, Netlify, Heroku |
-
-</details>
-
-<details>
-<summary><b>🛠️ Tools & Practices</b></summary>
-
-- **Version Control:** Git, GitHub
-- **Code Quality:** ESLint, Prettier
-- **Testing:** Jest, PyTest, Postman
-- **Project Management:** Jira, Trello
-- **Design:** Figma, Adobe XD
-- **OS:** Linux, Windows, macOS
-
-</details>
+*Version Control · Code Quality · Testing · Agile Methodology*
 
 ---
 
@@ -110,8 +65,8 @@ I'm a passionate **Full-Stack Developer** with **3+ years of experience** delive
 
 <div align="center">
   
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HeviSurafel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HeviSurafel&layout=compact&theme=tokyonight&hide_border=true) |
-|:---:|:---:|
+<img src="https://github-readme-stats.vercel.app/api?username=HeviSurafel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeviSurafel&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 
 </div>
 
@@ -121,70 +76,140 @@ I'm a passionate **Full-Stack Developer** with **3+ years of experience** delive
 
 ### 🌟 Highlighted Work
 
-<details>
-<summary><b>🎨 Portfolio Website</b></summary>
-
-**Description:** Modern, responsive portfolio with dark/light mode and animations.
+#### 🎨 Portfolio Website
+Modern, responsive portfolio with dark/light mode and animations.
 - **Tech Stack:** React, Tailwind CSS, Framer Motion
-- **Key Features:** Interactive UI, Responsive Design, Performance Optimized
 - **Links:** [Live Demo](https://surafel-portifolio-snfe.vercel.app/) · [Source Code](https://github.com/HeviSurafel/Surafel-Portifolio)
 
-</details>
-
-<details>
-<summary><b>🏟️ Arba Minch Stadium Donation</b></summary>
-
-**Description:** Crowdfunding platform for community stadium construction.
-- **Tech Stack:** Django, PostgreSQL, Stripe Integration
-- **Key Features:** Payment Gateway, Donation Tracking, Admin Dashboard
+#### 🏟️ Arba Minch Stadium Donation
+Crowdfunding platform for community stadium construction.
+- **Tech Stack:** Django, PostgreSQL, Stripe
 - **Links:** [Live Demo](https://arbaminchstadium.makadamy.com/) · [Source Code](https://github.com/HeviSurafel/Arbaminch-stadium)
 
+#### 💼 OneMai Affiliate Platform
+Full-featured affiliate marketing system for a client project.
+- **Tech Stack:** React, Node.js, MongoDB
+- **Links:** [Live Demo](https://affiliate.joinonemai.com/)
+
+---
+
+### 📦 More Projects
+
+<details>
+<summary><b>📋 Task Management App</b></summary>
+
+Productivity app with real-time collaboration.
+- **Tech Stack:** React, Firebase, Tailwind
+- **Links:** [GitHub](https://github.com/HeviSurafel/Task-Management)
+
 </details>
 
 <details>
-<summary><b>💼 OneMai Affiliate Platform</b></summary>
+<summary><b>🛋️ Worku Furniture</b></summary>
 
-**Description:** Full-featured affiliate marketing system for a client project.
-- **Tech Stack:** React, Node.js, MongoDB
-- **Key Features:** Commission Tracking, Analytics Dashboard, User Management
-- **Links:** [Live Demo](https://affiliate.joinonemai.com/)
+E-commerce platform with admin panel.
+- **Tech Stack:** PHP, Laravel, MySQL
+- **Links:** [GitHub](https://github.com/HeviSurafel/Worku-Furniture)
 
 </details>
 
-### 📦 Additional Projects
+<details>
+<summary><b>🎓 Makalla Academy</b></summary>
 
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| 📋 **Task Management App** | Productivity app with real-time collaboration | React, Firebase, Tailwind | [GitHub](https://github.com/HeviSurafel/Task-Management) |
-| 🛋️ **Worku Furniture** | E-commerce platform with admin panel | PHP, Laravel, MySQL | [GitHub](https://github.com/HeviSurafel/Worku-Furniture) |
-| 🎓 **Makalla Academy** | Educational platform with certificate generation | Django, Python, SQLite | [GitHub](https://github.com/HeviSurafel/MAC) |
-| 📊 **Inventory Management** | Full-stack tracking with barcode scanning | React, Node.js, PostgreSQL | [GitHub](https://github.com/HeviSurafel/Inventory-Management) |
-| 💬 **Chat App** | WebSocket-based real-time messaging | Node.js, Socket.io, MongoDB | [GitHub](https://github.com/HeviSurafel/Chat-App) |
-| ❤️ **Dating App** | Profile matching and real-time chat | React Native, Firebase | [GitHub](https://github.com/HeviSurafel/Dating-app) |
-| 🏕️ **Dorze Lodge** | Cultural lodge booking platform | React, Django, PostgreSQL | [GitHub](https://github.com/HeviSurafel/Dorze-Lodge) |
-| ✍️ **Django Blog** | Full-featured blogging platform | Django, Python, SQLite | [GitHub](https://github.com/HeviSurafel/Blog-using-django) |
-| 🗺️ **Mystery Land Tour** | Ethiopian tour planning platform | React, Node.js, MongoDB | [GitHub](https://github.com/HeviSurafel/Mystery-land-ethiopian-tour) |
-| 🌍 **Temu Travel** | Comprehensive travel agency website | Next.js, TypeScript, Prisma | [GitHub](https://github.com/HeviSurafel/temu-tour-and-travel) |
-| 🎵 **ThreeMT** | Modern Next.js web application | Next.js, TypeScript, Tailwind | [GitHub](https://github.com/HeviSurafel/ThreeMT/) |
+Educational platform with certificate generation.
+- **Tech Stack:** Django, Python, SQLite
+- **Links:** [GitHub](https://github.com/HeviSurafel/MAC)
+
+</details>
+
+<details>
+<summary><b>📊 Inventory Management</b></summary>
+
+Full-stack tracking with barcode scanning.
+- **Tech Stack:** React, Node.js, PostgreSQL
+- **Links:** [GitHub](https://github.com/HeviSurafel/Inventory-Management)
+
+</details>
+
+<details>
+<summary><b>💬 Chat App</b></summary>
+
+WebSocket-based real-time messaging.
+- **Tech Stack:** Node.js, Socket.io, MongoDB
+- **Links:** [GitHub](https://github.com/HeviSurafel/Chat-App)
+
+</details>
+
+<details>
+<summary><b>❤️ Dating App</b></summary>
+
+Profile matching and real-time chat.
+- **Tech Stack:** React Native, Firebase
+- **Links:** [GitHub](https://github.com/HeviSurafel/Dating-app)
+
+</details>
+
+<details>
+<summary><b>🏕️ Dorze Lodge</b></summary>
+
+Cultural lodge booking platform.
+- **Tech Stack:** React, Django, PostgreSQL
+- **Links:** [GitHub](https://github.com/HeviSurafel/Dorze-Lodge)
+
+</details>
+
+<details>
+<summary><b>✍️ Django Blog</b></summary>
+
+Full-featured blogging platform.
+- **Tech Stack:** Django, Python, SQLite
+- **Links:** [GitHub](https://github.com/HeviSurafel/Blog-using-django)
+
+</details>
+
+<details>
+<summary><b>🗺️ Mystery Land Tour</b></summary>
+
+Ethiopian tour planning platform.
+- **Tech Stack:** React, Node.js, MongoDB
+- **Links:** [GitHub](https://github.com/HeviSurafel/Mystery-land-ethiopian-tour)
+
+</details>
+
+<details>
+<summary><b>🌍 Temu Travel</b></summary>
+
+Comprehensive travel agency website.
+- **Tech Stack:** Next.js, TypeScript, Prisma
+- **Links:** [GitHub](https://github.com/HeviSurafel/temu-tour-and-travel)
+
+</details>
+
+<details>
+<summary><b>🎵 ThreeMT</b></summary>
+
+Modern Next.js web application.
+- **Tech Stack:** Next.js, TypeScript, Tailwind
+- **Links:** [GitHub](https://github.com/HeviSurafel/ThreeMT/)
+
+</details>
 
 ---
 
 ## 💼 Professional Highlights
 
 ### 🎯 Core Competencies
-
-- **Full-Stack Development:** End-to-end application development from concept to deployment
-- **Mobile Development:** Cross-platform mobile apps with Flutter and React Native
-- **API Design:** RESTful API architecture and integration
-- **Database Architecture:** Scalable database design and optimization
-- **Client Collaboration:** Experience working with clients on Upwork and freelance platforms
-- **Agile Methodology:** Project management using Agile and Scrum practices
+- **Full-Stack Development** — End-to-end application development from concept to deployment
+- **Mobile Development** — Cross-platform mobile apps with Flutter and React Native
+- **API Design** — RESTful API architecture and integration
+- **Database Architecture** — Scalable database design and optimization
+- **Client Collaboration** — Experience working with clients on Upwork and freelance platforms
+- **Agile Methodology** — Project management using Agile and Scrum practices
 
 ### 🏆 Achievements
-
 - Successfully delivered **10+ projects** for clients worldwide
-- Built scalable solutions for **startups and businesses** across various industries
-- Contributed to open-source projects and maintained active **GitHub presence**
+- Built scalable solutions for startups and businesses across various industries
+- Contributed to open-source projects and maintained active GitHub presence
 - Continuously learning and adapting to emerging technologies
 
 ---
